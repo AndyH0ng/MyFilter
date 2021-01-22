@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/AndyH0ng/MyFilter
+! License: https://github.com/AndyH0ng/MyFilter
+! Title: MyFilter
+! Expires: 300 days
+! Version: 20210122
 clien.net###side_banner
 clien.net###listDiv > div.view_bottom_ad:nth-child(33)
 naver.com#$#div.sc_newscast{ margin-top: 0px !important; }
