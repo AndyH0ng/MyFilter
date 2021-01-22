@@ -78,3 +78,5 @@ m.cafe.naver.com##.app_guide
 m.cafe.naver.com##.nv-openmain, .n_add
 m.cafe.naver.com##.footer_lnb
 m.cafe.naver.com##.copyright
+m.naver.com##div.cui_commemoration_banner
+m.naver.com##div.grid1.id_nmap
