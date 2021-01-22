@@ -81,8 +81,13 @@ m.cafe.naver.com##.copyright
 m.naver.com##div.cui_commemoration_banner
 m.naver.com##div.grid1.id_nmap
 m.naver.com##div.grid1.id_cui_napp_bannernew
+m.naver.com##div.grid1.id_cui_napp_bannernew
 ##div.UpsellModal.AppSelectorModal.upsell_banner
 ##div.AppSelectorModal__body
 ##div.AppSelectorModal__header
 ##div.FooterAppUpsell
 ##a.TopButton.upsell_banner.SiteHeader__AppBtn
+m.search.naver.com###ct > section.sc.sp_nsite._sp_site_answer._prs_vsd_cbs:nth-child(4) > div.api_subject_bx > div.nsite_info > div.nsite_desc:last-child > section.sc.sp_brand
+orbi.kr##diamondBanner
+orbi.kr#$#div.realcontent { top: -250px; }
+
