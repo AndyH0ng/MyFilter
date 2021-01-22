@@ -1,0 +1,73 @@
+clien.net###side_banner
+clien.net###listDiv > div.view_bottom_ad:nth-child(33)
+naver.com#$#div.sc_newscast{ margin-top: 0px !important; }
+naver.com#$#div.sc_shopcast{ height: 0; visibility: hidden !important; }
+naver.com###footer{ visibility: hidden !important; }
+naver.com###NM_THEMECAST_CONTENTS_CONTAINER
+naver.com#$#div.column_right.is_bfixed{ position: static !important; }
+naver.com#$#div.column_fix_wrap{position: static !important; margin-top:0px !important;}
+naver.com###footer
+naver.com###header > div.special_bg:first-child > div.group_flex > div.service_area:nth-child(2)
+search.naver.com###main_pack > section.sc_new.sp_nshop._shopping_root:nth-child(31) > a.api_banner:last-child
+naver.com###rtk
+naver.com###ke_kbd_btn
+section.cafe.naver.com###content > div.home_theme:last-child
+section.cafe.naver.com###content > div.home_editors:first-child
+section.cafe.naver.com###container > div.aside:last-child > div.cafe_banner:first-child
+section.cafe.naver.com###gnbMenu
+section.cafe.naver.com###container > div.aside:last-child > div.cafe_link:nth-child(4)
+section.cafe.naver.com###container > div.aside:last-child > div.notice:nth-child(7)
+###tsf > div:last-child > div.A8SBwf:first-child > div.FPdoLc.tfB0Bf:last-child
+###tsf > div:last-child > div.A8SBwf:first-child > div.RNNXgb:nth-child(2) > div.SDkEP > div.dRYYxd:last-child
+###tsf > div:last-child > div.A8SBwf.sbfc.emcav:first-child > div.UUbT9:nth-child(3) > div.aajZCb:nth-child(3) > div.tfB0Bf:last-child
+###gs_st0
+###gs_st50
+###voice-search-button
+userstyles.org###root > div.walking:nth-child(5)
+userstyles.org###root > div.android_button_button:nth-child(5)
+userstyles.org###root > div.overlay_background:nth-child(5)
+###maimacContent > div.right_sky_bnr:last-child
+###mainPopPI00001236
+###daesungwrap > header.dsm_header:nth-child(8) > div.top_divison:first-child > ul.sns_quick:nth-child(3)
+###mainPopPI00001242
+###daesungwrap > div.midarea:last-child > div.contentsarea:nth-child(2) > div.right_sky_bnr:last-child
+mimacstudy.com##.bottomarea
+###daesungwrap > header.dsm_header:nth-child(9) > div.top_divison:first-child > ul.sns_quick:nth-child(3)
+###mainPopPI00001188
+youtube.com###country-code
+m.naver.com###mflick > div.eg-flick-container > div.flick-panel.eg-flick-panel:nth-child(2) > div.wrap.id_search > div.search_footer:nth-child(2)
+m.naver.com###MM_SWIPE_COACH
+m.naver.com###MM_ISSUE_BANNER_AD-1611059467971
+m.naver.com###SEARCH_HOME_WRAP > div.grid1.id_cui_napp_bannernew:nth-child(5)
+m.naver.com###SEARCH_HOME_WRAP > div.grid1.id_cui_weather._MM_WEATHER_BANNER.NOW_USER_TYPE_DATA:nth-child(3) > div.cui_weather.cw_now_with.MM_FOLDABLE > div.cw_cnow:first-child > div.cw_now_wrap.MM_NOW_WRAP.MM_INACTIVE:last-child
+m.naver.com###MM_aside_promotion
+m.naver.com###[id^="MM_ISSUE_BANNER_AD-"]
+m.naver.com###.div.cui_commemoration_banner:first-child
+m.naver.com###HOME_AD
+m.search.naver.com##footer:nth-child(8) > div.api_footer > div.footer_function:first-child
+m.shopping.naver.com###upper_banner
+m.shopping.naver.com###list_area1 > div.part:first-child
+m.shopping.naver.com###ranking_age
+m.daum.net##div.bnr_layer.bnr_appset_v2_low:nth-child(5)
+m.daum.net###mArticle > a.btn_pageup.\#function\#top\#up.show:nth-child(4)
+m.dcinside.com##div.container:nth-child(3) > div.sec-wrap-sub > div.brick-wid > section.grid:nth-child(8)
+m.dcinside.com##nav.nav.depthmenu:nth-child(2)
+m.dcinside.com##div.container:nth-child(3) > div.sec-wrap-sub > div.brick-wid > div.container:first-child > div.sec-wrap-sub > div.brick-wid > section.grid:nth-child(3)
+gall.dcinside.com###top > footer.dcfoot.type1:last-child > div.dc_all:nth-child(2)
+orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.right-wing:last-child > div.oxad.right_wing_style:nth-child(12)
+orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.right-wing:last-child > div.tutor-mentor:nth-child(14)
+orbi.kr##div.footer:nth-child(7)
+orbi.kr#$#div.global-top{ top: 1px !important; }
+orbi.kr###top_banner_area
+orbi.kr#$#div.global-top.fixed{ top: -1px !important; }
+orbi.kr#$#div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > div.layout-main > div.main-post-wrap:nth-child(2) > div.row > div.col-50 > div.panel{ margin-top: 0 !important; }
+orbi.kr#$#div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > united-read.layout-board-read.ng-isolate-scope:first-child > div.panel.ng-scope:first-child{ margin-top: 0 !important; }
+orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > div.layout-main > div.panel.class-event-wrap:nth-child(5)
+orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > div.layout-main > div.class-section:last-child > div.class-video-clip:nth-child(3)
+orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > div.layout-main > div.class-section:last-child > div.class-review.panel:last-child
+m.cafe.naver.com##span.banner_inner
+m.cafe.naver.com##.page_top
+m.cafe.naver.com##.app_guide
+m.cafe.naver.com##.nv-openmain, .n_add
+m.cafe.naver.com##.footer_lnb
+m.cafe.naver.com##.copyright
