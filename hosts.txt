@@ -80,3 +80,9 @@ m.cafe.naver.com##.footer_lnb
 m.cafe.naver.com##.copyright
 m.naver.com##div.cui_commemoration_banner
 m.naver.com##div.grid1.id_nmap
+m.naver.com##div.grid1.id_cui_napp_bannernew
+##div.UpsellModal.AppSelectorModal.upsell_banner
+##div.AppSelectorModal__body
+##div.AppSelectorModal__header
+##div.FooterAppUpsell
+##a.TopButton.upsell_banner.SiteHeader__AppBtn
