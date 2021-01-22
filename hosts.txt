@@ -91,3 +91,4 @@ m.search.naver.com###ct > section.sc.sp_nsite._sp_site_answer._prs_vsd_cbs:nth-c
 orbi.kr##diamondBanner
 orbi.kr#$#div.realcontent { top: -250px; }
 m.naver.com###SEARCH_HOME_WRAP > div.grid1.id_cui_weather._MM_WEATHER_BANNER.NOW_USER_TYPE_DATA:nth-child(3) > div.cui_weather.cw_now_with.MM_FOLDABLE > div.cw_cnow:first-child > div.cw_now_wrap.MM_NOW_WRAP.MM_INACTIVE:last-child
+m.naver.com###SEARCH_HOME_WRAP > div.grid1.id_cui_napp_bannernew:nth-child(5)
