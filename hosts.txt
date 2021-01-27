@@ -72,6 +72,8 @@ orbi.kr#$#div.global-body:nth-child(5) > div.body > div.wrapper > div.content-bo
 orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > div.layout-main > div.panel.class-event-wrap:nth-child(5)
 orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > div.layout-main > div.class-section:last-child > div.class-video-clip:nth-child(3)
 orbi.kr##div.global-body:nth-child(5) > div.body > div.wrapper > div.content-body:nth-child(2) > div.layout-main > div.class-section:last-child > div.class-review.panel:last-child
+orbi.kr##diamondBanner
+orbi.kr#$#div.realcontent { top: -250px; }
 m.cafe.naver.com##span.banner_inner
 m.cafe.naver.com##.page_top
 m.cafe.naver.com##.app_guide
@@ -88,7 +90,5 @@ m.naver.com##div.grid1.id_cui_napp_bannernew
 ##div.FooterAppUpsell
 ##a.TopButton.upsell_banner.SiteHeader__AppBtn
 m.search.naver.com###ct > section.sc.sp_nsite._sp_site_answer._prs_vsd_cbs:nth-child(4) > div.api_subject_bx > div.nsite_info > div.nsite_desc:last-child > section.sc.sp_brand
-orbi.kr##diamondBanner
-orbi.kr#$#div.realcontent { top: -250px; }
 m.naver.com###SEARCH_HOME_WRAP > div.grid1.id_cui_weather._MM_WEATHER_BANNER.NOW_USER_TYPE_DATA:nth-child(3) > div.cui_weather.cw_now_with.MM_FOLDABLE > div.cw_cnow:first-child > div.cw_now_wrap.MM_NOW_WRAP.MM_INACTIVE:last-child
 m.naver.com###SEARCH_HOME_WRAP > div.grid1.id_cui_napp_bannernew:nth-child(5)
